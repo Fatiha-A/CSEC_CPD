@@ -8,5 +8,3 @@ for i in [2, 3]:
         total_outcomes //= i
 
 print(f"{favorable_outcomes}/{total_outcomes}")
-
-Colorful Stones (Simplified Edition)
